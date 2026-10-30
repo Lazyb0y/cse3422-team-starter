@@ -45,7 +45,7 @@ This starter gives you the **structure** only. You set up each engineering pract
 |---|---|---|
 | This repository (from the template); teammates and the instructor (**@Lazyb0y**) as collaborators | Class 1 | Class 1 homework |
 | Jira site and the GitHub for Atlassian connection | Class 1 | Class 1 homework |
-| Help-request issue template (`.github/ISSUE_TEMPLATE/`) | Class 1 | Class 1 homework |
+| Issue forms in `.github/ISSUE_TEMPLATE/` (help request, project idea, bug report) and `config.yml`, copied from the reference repository | Class 1 | Class 1 homework |
 | Project-idea issue; the team contract merged through your first pull request | Class 1 | Class 1 homework |
 | Licence file | Class 2 | Before Class 3 |
 | Branch protection on `main`, pull-request template, `CODEOWNERS`, merge settings, `CONTRIBUTING.md`, `.env.example` | Class 3 | Class 3 homework |
