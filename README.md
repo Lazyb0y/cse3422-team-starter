@@ -8,7 +8,7 @@ One sentence: who this is for and what problem it solves.
 | **Jira board** | https://YOUR-SITE.atlassian.net/jira/software/projects/KEY/boards/1 |
 | **Live app** | Added in Class 8 |
 | **Stack** | Frontend: … · Backend: … · Database: … · External API: … |
-| **Course** | UIU CSE 3422 Software Engineering Laboratory, Fall 2026 |
+| **Course** | UIU CSE 3422 Software Engineering Laboratory |
 
 ## Run it locally
 
