@@ -26,7 +26,7 @@ The exact command(s).
 | Specification | [docs/specification.md](docs/specification.md) | Draft before Class 3, tag `spec-v1` by Class 4 |
 | Proposal slides | `docs/proposal.pdf` | Before Class 4 |
 | Design document and ADRs | [docs/design.md](docs/design.md), [docs/adr/](docs/adr/) | Draft before Class 5, tag `design-v1` by Class 6 |
-| Test evidence | [docs/test-evidence.md](docs/test-evidence.md) | Class 7 onwards |
+| Test evidence | [docs/test-evidence.md](docs/test-evidence.md) | Class 6 onwards |
 | API tests (Postman) | [api-tests/](api-tests/) | Class 7 onwards |
 | Usability report | [docs/usability.md](docs/usability.md) | Class 9 |
 | Weekly status | [reports/](reports/) | Every week |
